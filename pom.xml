@@ -211,6 +211,7 @@
 					<configuration>
 						<source>1.8</source>
 						<target>1.8</target>
+						<executable>C:\Program Files (x86)\Java\SAPJVM8_12-8_X64\sapjvm_8\bin\javac.exe</executable>
 					</configuration>
 				</plugin>
 				<plugin>
